@@ -1,4 +1,4 @@
-# Q3: Symmetric Matrices
+# Symmetric Matrices
 
 Given a **square** **2-D list** of all 1s and 0s and dimension **N x N**:
 - return True if the matrix is symmetric 

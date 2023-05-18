@@ -2,7 +2,6 @@
 #  Description: Determines if a square 2d list of 1s and 0s has some "symmetry" where the matrix is
 #               the same as its transpose
 #  Student Name: Raquel Mejia-Trujillo
-#  Student UT EID: rm57578
 #  Course Name: CS 313E
 #  Unique Number: 52020
 
